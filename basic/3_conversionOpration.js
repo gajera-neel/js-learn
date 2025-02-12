@@ -14,6 +14,7 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 console.log(booleanIsLoggedIn)
 
 
+
 let someNumber = 33
 
 let stringNumber = String(someNumber)
